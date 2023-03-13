@@ -1,7 +1,5 @@
-![MasterHead](https://www.facebook.com/photo.php?fbid=751697456312765&set=pb.100044175532217.-2207520000.&type=3)
 <h1 align="center">Hi 👋, I'm Apurva</h1>
 <h3 align="center">Pull-Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.facebook.com/yaoyaomva/photos/pb.100044175532217.-2207520000./1179407502437715/?type=3">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurvaaa12&label=Profile%20views&color=0e75b6&style=flat" alt="apurvaaa12" /> </p>
 
