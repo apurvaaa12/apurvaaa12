@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Apurva</h1>
 <img align="right" src="http://static.demilked.com/wp-content/uploads/2020/01/5e0eff2da6c17-live-with-dog-illustrations-yaoyaomva-38-5e0db03e3eec4__880.jpg" alt="Alt text" width="400" height="550">
-<h3 align="left">Pull-Stack Developer from India</h3>
+<h3 align="center">Pull-Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurvaaa12&label=Profile%20views&color=0e75b6&style=flat" alt="apurvaaa12" /> </p>
 
